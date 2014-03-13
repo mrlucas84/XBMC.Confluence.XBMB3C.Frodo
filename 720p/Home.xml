@@ -823,7 +823,7 @@
 						<visible>true</visible>
 					</item>  
                     <item id="16013">
-						<label>Random Eppisodes</label>
+						<label>Random Episodes</label>
 						<onclick>true</onclick>
 						<icon>-</icon>
 						<thumb>-</thumb>
